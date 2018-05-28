@@ -1,0 +1,6 @@
+Python 2.7.15rc1 (default, Apr 15 2018, 21:51:34) 
+[GCC 7.3.0] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>> exit
+Use exit() or Ctrl-D (i.e. EOF) to exit
+
